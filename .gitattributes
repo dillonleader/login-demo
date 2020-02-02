@@ -1,4 +1,0 @@
-*.js linguist-language=node.js
-*.css linguist-language=node.js
-*.html linguist-language=node.js
-*.sql linguist-language=node.js
